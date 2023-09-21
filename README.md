@@ -4,10 +4,7 @@ A new Flutter project.
 
 # Description
 
-This Application uses scratch Card
-  ->You Click a number 
-  ->you get a scratch card
-  -> It gives quote of your day
+This Application displays numbers between 1 and 50. On clicking a number, it pops a scratch card, On scratching it reveals Quote of your Day
 
 # Screenshots
 
